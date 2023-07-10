@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "name": "Black Cotton T-shirt",
+      "image": "https://i.postimg.cc/qR9rPmCZ/Mens-Poker-Skeleton-Hand-Graphics-Street-100-Cotton-Short-Sleeve-T-Shirt-Black-S.png",
+      "desc": "Black T-Shirt.",
+      "price": "R279.99"
+    },
+    {
+      "name": "White Cotton hoodie",
+      "image": "https://i.postimg.cc/k4WY5wpH/Drop-Shoulder-Hoodie-with-Slit-Beige-2-XL.jpg",
+      "desc": "White Hoodie.",
+      "price": "R949.99"
+    },
+    {
+      "name": "Black Sleeveless Puffer Jacket",
+      "image": "https://i.postimg.cc/0yqQMNjH/Chalecos-acolchados-con-capucha-y-sin-mangas-de-color-s-lido-con-bolsillo-y-cremallera-de-color-s-li.png",
+      "desc": "Puffer Jacket.",
+      "price": "R449.99"
+    },
+    {
+      "name": "Black BOSS Tracksuit Pants",
+      "image": "https://i.postimg.cc/MZ5nPBGy/BOSS-Men-s-Tracksuit-Pants-Black.jpg",
+      "desc": "Black Tracksuit",
+      "price": "R379.99"
+    },
+    {
+      "name": "Hoodied Jersey",
+      "image": "https://i.postimg.cc/gJPPnjGk/Plaid-Button-Front-Brushed-Hooded-Jacket-Purple-2-XL.jpg",
+      "desc": "Buttoned Hoodied Jersey",
+      "price": "R749.99"
+    },
+    {
+      "name": "Light grey shorts",
+      "image": "https://i.postimg.cc/Jz1DB74x/Waist-Tie-Active-Shorts-Blue-12.jpg",
+      "desc": "Grey Shorts.",
+      "price": "R467.99"
+    }
+  ]
+}
